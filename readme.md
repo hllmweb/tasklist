@@ -2,10 +2,10 @@
 Nome do projeto: 
 🚀 todoist
 
-Funções: 
-✔️ Listar tarefa
-✔️ Adicionar tarefa
-✔️ Editar tarefa
-✔️ Deletar tarefa
-✔️ Carregamento infinito das tarefas
-✔️ Conclusão das tarefas 
+### Funções: 
+✔️ Listar tarefa <br />
+✔️ Adicionar tarefa <br />
+✔️ Editar tarefa <br />
+✔️ Deletar tarefa <br />
+✔️ Carregamento infinito das tarefas <br />
+✔️ Conclusão das tarefas <br />
